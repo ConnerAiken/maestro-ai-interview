@@ -9,8 +9,7 @@ Your task is to write a program that processes these files to solve the given pr
 After running your program on each file, enter the results into this form.
 Ensure that you are signed into your Google account, as we will use this email to contact you regarding next steps.
 
-Problem Description:
-
+***Problem Description:***
 Write a program that reads a text file that contains 0's and 1's in a regular N x N sized grid.  Here is an example of what a valid input file looks like:
 ```
 0110

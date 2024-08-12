@@ -1,0 +1,12 @@
+{
+  "name": "maestro-ai-interview",
+  "version": "1.0.0",
+  "description": "Welcome to the programming puzzle for Maestro AI!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Conner Aiken",
+  "license": "ISC"
+}
